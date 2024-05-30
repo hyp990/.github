@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.intelliSenseMode": "linux-clang-arm64",
+    "html.format.templating": true,
+    "C_Cpp.formatting": "clangFormat",
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker",
+    "C_Cpp.clang_format_style": "file",
+    "markdown.preview.typographer": true,
+    "microclimateProfiling.showProfiling": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}

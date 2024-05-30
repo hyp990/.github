@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-
+mkdir static-site
+cd static-site
+touch index.html
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?

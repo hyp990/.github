@@ -1,0 +1,14 @@
+2024/05/25-02:29:50.793 2ebe Reusing MANIFEST /data/user/0/com.mixplorer.silver/app_webview/Default/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/05/25-02:29:50.795 2ebe Recovering log #10
+2024/05/25-02:29:50.796 2ebe Reusing old log /data/user/0/com.mixplorer.silver/app_webview/Default/IndexedDB/file__0.indexeddb.leveldb/000010.log 
+2024/05/25-02:29:50.796 2ebe Delete type=2 #8
+2024/05/25-02:29:52.696 2e84 Level-0 table #15: started
+2024/05/25-02:29:52.701 2e84 Level-0 table #15: 3053 bytes OK
+2024/05/25-02:29:52.714 2e84 Delete type=0 #10
+2024/05/25-02:29:52.716 2ebe Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 246 : 1
+2024/05/25-02:29:52.717 2ebe Compacting 1@0 + 1@1 files
+2024/05/25-02:29:52.720 2ebe Generated table #16@0: 64 keys, 2869 bytes
+2024/05/25-02:29:52.721 2ebe Compacted 1@0 + 1@1 files => 2869 bytes
+2024/05/25-02:29:52.729 2ebe compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/25-02:29:52.730 2ebe Delete type=2 #15
+2024/05/25-02:29:52.730 2ebe Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 246 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

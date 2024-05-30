@@ -1,0 +1,6 @@
+--2024-05-26 11:52:39--  https://developer-chrome-com.translate.goog/docs/devtools/open?hl=zh-cn
+Resolving developer-chrome-com.translate.goog (developer-chrome-com.translate.goog)... 172.217.23.193, 2a00:1450:400e:802::2001
+Connecting to developer-chrome-com.translate.goog (developer-chrome-com.translate.goog)|172.217.23.193|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2024-05-26 11:52:40 ERROR 400: Bad Request.
+

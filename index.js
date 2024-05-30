@@ -19,14 +19,14 @@ const plugin = (octokit, options = { greeting: "Hello" }) => {
     const response = await request(options);
     console.log(
       `${options.method} ${options.url} – ${response.status} in ${Date.now() -
-        time}ms`
+      time}ms`
     );
     return response;
   });
 
   // add a custom method
   return {
-    helloWorld: () => console.log(`${options.greeting}, world!`);
+    helloWorld: () => console.log(`${options.greeting}, world!`)
   }
 };
 export default plugin;

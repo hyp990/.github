@@ -1,0 +1,1 @@
+margin-left:2px;margin-right:2px;width:19px;height:19px;border:none;vertical-align:middle}

@@ -1,4 +1,8 @@
 {
-  "repl": ""，
-  "lang": "zh-CN"
+  "imports": {
+    "std/": "https://deno.land/std@0.224.0/"
+  },
+  "starts": {
+    "test": "deno run --watch main.ts"
+  }
 }

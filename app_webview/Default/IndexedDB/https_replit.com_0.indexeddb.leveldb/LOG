@@ -1,0 +1,6 @@
+2024/05/14-10:41:21.691 5e7d Creating DB /data/user/0/com.mixplorer.silver/app_webview/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb since it was missing.
+2024/05/14-10:41:21.706 5e7d Reusing MANIFEST /data/user/0/com.mixplorer.silver/app_webview/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/14-10:41:25.307 5e84 Level-0 table #5: started
+2024/05/14-10:41:25.318 5e84 Level-0 table #5: 1441 bytes OK
+2024/05/14-10:41:25.324 5e84 Delete type=0 #3
+2024/05/14-10:41:25.328 5e82 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
